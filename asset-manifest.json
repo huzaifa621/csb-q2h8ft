@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://huzaifa621.github.io/csb-q2h8ft/static/css/main.975656e7.chunk.css",
+    "main.js": "https://huzaifa621.github.io/csb-q2h8ft/static/js/main.f335efa5.chunk.js",
+    "main.js.map": "https://huzaifa621.github.io/csb-q2h8ft/static/js/main.f335efa5.chunk.js.map",
+    "runtime-main.js": "https://huzaifa621.github.io/csb-q2h8ft/static/js/runtime-main.9cc8cae2.js",
+    "runtime-main.js.map": "https://huzaifa621.github.io/csb-q2h8ft/static/js/runtime-main.9cc8cae2.js.map",
+    "static/js/2.04ed9077.chunk.js": "https://huzaifa621.github.io/csb-q2h8ft/static/js/2.04ed9077.chunk.js",
+    "static/js/2.04ed9077.chunk.js.map": "https://huzaifa621.github.io/csb-q2h8ft/static/js/2.04ed9077.chunk.js.map",
+    "index.html": "https://huzaifa621.github.io/csb-q2h8ft/index.html",
+    "static/css/main.975656e7.chunk.css.map": "https://huzaifa621.github.io/csb-q2h8ft/static/css/main.975656e7.chunk.css.map",
+    "static/js/2.04ed9077.chunk.js.LICENSE.txt": "https://huzaifa621.github.io/csb-q2h8ft/static/js/2.04ed9077.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cc8cae2.js",
+    "static/js/2.04ed9077.chunk.js",
+    "static/css/main.975656e7.chunk.css",
+    "static/js/main.f335efa5.chunk.js"
+  ]
+}
